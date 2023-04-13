@@ -1,7 +1,7 @@
 {
  width: 200px;
  text-align:center;
- font-style: 'courier' ;
+ font-style: 'courier';
  display: block;
  margin-left: auto;
  magin-right: auto;
@@ -13,7 +13,7 @@
 .vertical.menu a 
 {
  background-color: brown;
- color: black;
+ color:black;
  display: block;
  text-decoration: none;
 
