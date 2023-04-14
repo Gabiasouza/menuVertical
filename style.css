@@ -8,17 +8,17 @@
 }
 
 
-.vertical.menu a 
-{
+.vertical.menu a {
  background-color: brown;
  color:black;
  display: block;
  text-decoration: none;
-
 }
-.vertical.menu a:houver{
+
+.vertical.menu a:hover {
      background-color: brown;
 }
+
 .vertical-menu a.active {
      background-color: brown;
      color: white;
