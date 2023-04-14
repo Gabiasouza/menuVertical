@@ -18,3 +18,16 @@
      background-color: #04AA6D; /* Add a green color to the "active/current" link */
      color: white;
 }
+
+.vertical-menu{
+     margin-left: auto;
+     margin-right: auto;
+}
+
+div{
+     height: 200px;
+}
+
+h1{
+     text-align: center;
+}
